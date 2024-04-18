@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34601.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AucTest", "AucTest\AucTest.csproj", "{A1843885-05B0-4CAD-B2D4-EA33F66F0ACF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1843885-05B0-4CAD-B2D4-EA33F66F0ACF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1843885-05B0-4CAD-B2D4-EA33F66F0ACF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1843885-05B0-4CAD-B2D4-EA33F66F0ACF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1843885-05B0-4CAD-B2D4-EA33F66F0ACF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B75F7DE-D466-4145-A6E8-6992EE915B7E}
+	EndGlobalSection
+EndGlobal
